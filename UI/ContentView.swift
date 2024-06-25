@@ -24,7 +24,7 @@ struct ContentView: View {
                 .border(Color.black, width: 2)
             
             Button("Enter") {
-                textTitle = "Welcome, \(name)"
+                textTitle = "Welcome, \(name) 🩷"
                 
             } // close button
             .font(.body)
